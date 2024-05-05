@@ -1,0 +1,6 @@
+torch
+torchvision
+numpy
+matplotlib
+PIL
+jupyterlab==4.1.1
