@@ -4,3 +4,5 @@ numpy
 matplotlib
 pillow
 jupyterlab==4.1.1
+pandas
+seaborn
